@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestMeli</string>
+    <string name="el_dispositivo_esta_desconectado">El dispositivo esta desconectado</string>
+    <string name="search">Buscar productos, marcas y mas</string>
+    <string name="network_error">El dispositivo no tiene conexion a internet.</string>
+    <string name="error_service_result">Sin resulatdos</string>
+</resources>
